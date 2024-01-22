@@ -21,7 +21,7 @@ git clone https://github.com/Ahmed-Elzayat112/Todo-list.git
 
 - Open the index.html file in your web browser to see the app in action.
 - Open the style.css file in your code editor to change the appearance of the app.
-- Open the script.js file in your code editor to change the functionality of the app.
+- Open the main.js file in your code editor to change the functionality of the app.
 
 # Usage
 
@@ -33,7 +33,7 @@ To use this app, you need to follow these steps:
 
 Here is a screenshot of the app:
 
-T![image](https://github.com/Ahmed-Elzayat112/Todo-list/assets/113038956/f985df50-6c93-4edc-8086-bedf48869029)
+![image](https://github.com/Ahmed-Elzayat112/Todo-list/assets/113038956/f985df50-6c93-4edc-8086-bedf48869029)
 
 # Contributing
 
